@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.DS_Store
+.env
+.venv
+venv/
+.envrc
+*.log
+*.pdf
+/.streamlit/secrets.toml
+/.pytest_cache
+/.coverage
+dist/
+build/
